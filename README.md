@@ -1,5 +1,5 @@
 # Reccomended Music System using reinforcement learning
-The goal of this project is to create a personalised playlist on Spotify for a chosen user. In the explanation I’m going to put in brackets the relative code that I developed.
+The goal of this project is to create a personalised playlist on Spotify for a chosen user. In the explanation I’m going to put in brackets the most important section of the relative code that I developed.
 
 I used historical listening data from 1055 user, obtained on musicbrainz (https://musicbrainz.org/doc/MusicBrainz_Database/Download), and added my personal data (add_spotify_data.py) to the problem. 
 
